@@ -58,6 +58,15 @@
         "variant": "c",
         "type_traits": "c",
         "codecvt": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "cstring": "cpp",
+        "strstream": "cpp",
+        "bitset": "cpp",
+        "complex": "cpp",
+        "iomanip": "cpp",
+        "thread": "cpp",
+        "cfenv": "cpp",
+        "cinttypes": "cpp",
+        "typeindex": "cpp"
     }
 }
